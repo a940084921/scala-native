@@ -5,7 +5,7 @@
 ![MacOS Status](https://github.com/scala-native/scala-native/actions/workflows/run-tests-macos.yml/badge.svg)
 ![Windows Status](https://github.com/scala-native/scala-native/actions/workflows/run-tests-windows.yml/badge.svg)
 [![Maven Central](https://img.shields.io/maven-central/v/org.scala-native/tools_2.12.svg)](https://maven-badges.herokuapp.com/maven-central/org.scala-native/tools_2.12)
--->
+--->
 
 Scala Native is an optimizing ahead-of-time compiler and lightweight managed runtime designed specifically for Scala.
 
